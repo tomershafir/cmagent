@@ -1,2 +1,2 @@
 # cmagent
-Open cost metrics collector agent
+Open cost metrics collector
